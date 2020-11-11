@@ -3,7 +3,10 @@ Proiect ASC - determinarea limbii romane
 
 Echipa de proiect:
 
-Brînză Alexandru
-Dăscălescu Ștefan
-Filipescu Radu
-Mititelu Teodor
+Alexandru Brînză - https://github.com/alexbrinza2001
+
+Stefan Dascalescu - https://github.com/stefdasca/
+
+Radu Filipescu - https://github.com/radu-filipescu
+
+Teodor Mititelu - https://github.com/teodormititelu
